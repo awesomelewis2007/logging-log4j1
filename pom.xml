@@ -541,7 +541,7 @@ target platform and specify -Dntdll_target=msbuild on the mvn command line.
     <dependency>
       <groupId>javax.mail</groupId>
       <artifactId>mail</artifactId>
-      <version>1.4.3</version>
+      <version>1.4.7</version>
       <optional>true</optional>
     </dependency>
     <dependency>
